@@ -21,7 +21,7 @@
 需要先装好 [Claude Code](https://code.claude.com)。在终端里依次运行：
 
 ```
-claude plugin marketplace add <GitHub用户名>/<仓库名>
+claude plugin marketplace add rollerluo1017/Aizhi
 claude plugin install aizhi@aizhi-local
 ```
 
