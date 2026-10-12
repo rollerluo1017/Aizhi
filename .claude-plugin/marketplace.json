@@ -1,0 +1,14 @@
+{
+  "name": "aizhi-local",
+  "description": "爱智：面向哲学专业学生的 Claude Code 学习插件。",
+  "owner": {
+    "name": "huayu"
+  },
+  "plugins": [
+    {
+      "name": "aizhi",
+      "source": ".",
+      "description": "爱智：面向哲学专业学生的进阶学习伙伴。概念精讲、苏格拉底式对话、原著导读、跨传统比较、测验复习与进度追踪。"
+    }
+  ]
+}
